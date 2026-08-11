@@ -1,4 +1,4 @@
-from items import JdCatchItem
-from middlewares import JdCatchSpiderMiddleware
+# from items import JdCatchItem
+# from middlewares import JdCatchSpiderMiddleware
 
-__all__ = ["JDCatchItem", "JdCatchSpiderMiddleware"]
+# __all__ = ["JDCatchItem", "JdCatchSpiderMiddleware"]
